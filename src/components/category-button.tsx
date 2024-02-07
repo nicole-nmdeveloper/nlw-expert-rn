@@ -14,5 +14,5 @@ export function CategoryButton({ title, isSelected, ...rest }: CategoryProps) {
         >
             <Text className="text-slate-100 font-subtitle text-sm">{title}</Text>
         </Pressable>
-    )
+    );
 }

@@ -16,7 +16,7 @@ export default function Layout() {
         Inter_500Medium,
         Inter_600SemiBold,
         Inter_700Bold,
-    })
+    });
 
     if (!fontsLoaded) {
         return <Loading />
@@ -26,5 +26,5 @@ export default function Layout() {
         <SafeAreaView className="flex-1 bg-slate-900">
             <Slot />
         </SafeAreaView>
-    )
+    );
 }

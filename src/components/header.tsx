@@ -25,5 +25,5 @@ export function Header({ title, cartQuantityItems = 0 }: HeaderProps) {
                 </TouchableOpacity>
             }
         </View>
-    )
+    );
 }
