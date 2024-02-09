@@ -18,7 +18,7 @@ O projeto, em sua tela inicial, mostra o cardápio para o cliente. Ao clicar em 
 
 ## ✨ Principais Tecnologias 
 
-**Front-end:** React Native, Expo, Nativewind (Tailwind), Zustand
+React Native, Expo, Nativewind (Tailwind), Zustand
 
 
 
